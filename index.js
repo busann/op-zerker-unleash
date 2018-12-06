@@ -79,7 +79,7 @@ module.exports = function ZerkHue(dispatch) {
                     unk: true,
                     moving: false,
                     continue: false,
-                    target: {low: 0, high: 0, unsigned: true},
+                    target: 0n,
                     unk2: false
                 });
 
