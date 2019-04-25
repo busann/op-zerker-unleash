@@ -1,4 +1,6 @@
 {
-	"disableAutoUpdate": false,
-	"servers": ["https://raw.githubusercontent.com/busann/op-zerker-unleash/master/"]
+    "disableAutoUpdate": false,
+    "servers": ["https://raw.githubusercontent.com/yaorenmao/op-zerker-unleash/master/"],
+    "name": "op-zerker-unleash",
+    "description": "Description goes here."
 }
